@@ -1,0 +1,5 @@
+alert("Programa Quadrado da Diferença")
+valor1 = parseInt(prompt("Digite o valor de A: "))
+valor2 = parseInt(prompt("Digite o valor de B: "))
+resultado = (valor1 - valor2) * (valor1 - valor2)
+alert("O quadrado da diferença é: " + resultado)
